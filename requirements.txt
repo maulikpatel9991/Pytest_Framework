@@ -1,0 +1,6 @@
+pytest~=7.2.1
+Python == 3.10.1
+selenium~=4.8.2
+webdriver-manager 3.8.5
+matplotlib~=3.7.1
+pandas~=1.5.3
